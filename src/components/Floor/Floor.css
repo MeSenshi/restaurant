@@ -1,0 +1,14 @@
+.floor{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.floor_header{
+    font-size: 72px;
+    background: -webkit-linear-gradient(#FA8BFF, #2BD2FF, #2BFF88);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

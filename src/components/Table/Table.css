@@ -1,0 +1,25 @@
+.table_container {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.table {
+    width: 20rem;
+    height: 20rem;
+    cursor: grab;
+}
+
+.tooltip{
+    width: 15rem;
+    height: 10rem;
+    background: -webkit-linear-gradient(#eeaeca, #94bbe9);
+    color: black !important;
+    font-size: 12px !important;
+    font-weight: bold !important;
+}
+
+
+
+

@@ -10,6 +10,8 @@
 
 # production
 /build
+.idea
+.gitignore
 
 # misc
 .DS_Store
